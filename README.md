@@ -357,9 +357,8 @@ face-mask-detection/
 **Muhammad Umer**
 BS Computer Science — University of Sargodha, Pakistan
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork)](https://www.upwork.com/YOUR_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-umer-b39171337/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/BROWNBOY047)
 
 > 🔬 Aspiring ML/Deep Learning Researcher | AI/ML Freelance Engineer
 > Targeting fully funded PhD programs in AI/ML (Germany 🇩🇪 | Canada 🇨🇦 | USA 🇺🇸)
