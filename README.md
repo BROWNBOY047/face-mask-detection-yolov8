@@ -8,16 +8,13 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active%20Research-brightgreen?style=for-the-badge)
+[![Live Demo](https://img.shields.io/badge/🤗%20HuggingFace%20Space-Live%20Demo%20→-FFD21E?style=for-the-badge)](https://huggingface.co/spaces/BrownBoy47/face-mask-app)
 
 <br/>
 
 > **Final Year Project (FYP) — BS Computer Science, University of Sargodha**
 >
 > A deep learning-powered, real-time system that detects and classifies face mask usage across three categories: **Proper Mask**, **Improper Mask**, and **No Mask** — even under challenging real-world conditions like occlusion, low light, and low resolution.
-
-<br/>
-
-[![Live Demo](https://via.placeholder.com/900x400/0d1117/58a6ff?text=🚀+Click+to+Try+Live+Demo)](https://huggingface.co/spaces/BrownBoy47/face-mask-app)
 
 </div>
 
